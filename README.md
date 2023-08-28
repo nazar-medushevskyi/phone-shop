@@ -1,5 +1,9 @@
 # phone-shop
 
+Technologies used: HTML, SCSS, React, JS, TypeScript with React, Routes, API, ClassNames, Local Storage, and others.
+
+Global state was utilized for control purposes.
+
 Phone Catalog - A comprehensive and functional e-commerce website, where you can explore various phone models, choose your favorite phones, add them to your favorites or cart, and much more!
 
 This catalog consists of 12 pages: Home, Phones, Accessories, Favorites, Cart, GitHub, Contacts, Page Not Found, Nothing Found, Review, Rights, Selected Phone.

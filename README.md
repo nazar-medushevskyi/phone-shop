@@ -1,5 +1,7 @@
 # phone-shop
 
+- [DEMO LINK] ( https://nazar-medushevskyi.github.io/react_phone-catalog/ )
+
 Technologies used: HTML, SCSS, React, JS, TypeScript with React, Routes, API, ClassNames, Local Storage, and others.
 
 Global state was utilized for control purposes.
